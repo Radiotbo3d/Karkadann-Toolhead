@@ -6,13 +6,13 @@ Karkadan Toolhead is an SLM 3dprinted Monolith compatible toolhead that offers m
 This toolhead was developed when I wanted a perfomace orientated toolhead for my setup while still being able to test different hotends and extruder combiations.
 
 ### things you need to know:
--This toolhead is ONLY compatible with [Monolith Gantry](https://github.com/Monolith3D/Monolith_Gantry)
--You can use belts from 6mm up to 10mm in width
--The main structural parts for this toolhead have to be SLM 3dprinted (I suggest out of aluminium)
--you will have to tap some M3 holes
--compatible with Beacon and Cartographer probes
--compatible with Rapido/Dragon, Chube, Mosquito mounting patterns
--compatible with Sherpa, orbiter, LGX, papilio lite mounting patterns
+-This toolhead is ONLY compatible with [Monolith Gantry](https://github.com/Monolith3D/Monolith_Gantry)</br>
+-You can use belts from 6mm up to 10mm in width</br>
+-The main structural parts for this toolhead have to be SLM 3dprinted (I suggest out of aluminium)</br>
+-you will have to tap some M3 holes</br>
+-compatible with Beacon and Cartographer probes</br>
+-compatible with Rapido/Dragon, Chube, Mosquito mounting patterns</br>
+-compatible with Sherpa, orbiter, LGX, papilio lite mounting patterns</br>
 
 ## BOM
 "currently undermined"
