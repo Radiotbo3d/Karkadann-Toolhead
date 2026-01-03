@@ -23,6 +23,7 @@ I want to thank everyone who has helped to develop this project.
 
 - [@CloakedWayne](https://github.com/Monolith3D) ([Belt clamps](https://github.com/Monolith3D/MISC/tree/main/Monolith_SLM_belt_clamps))
 - [@Rocksalt](www.thingiverse.com/XrocksaltX/) ([UFO CPAP duct](https://www.thingiverse.com/thing:6779529))
+- [Armchair Heavy industries](https://github.com/Armchair-Heavy-Industries) ([Probe mount](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead/blob/main/STL/Xol-Carriage/Probe%20Modules/Beacon_RevD%2BCartographer_Module_UHF.stl))
 - if your name isn't here and you think it should be mentioned please contact me and I'll update it as fast as I can
 And If someone has any suggestion for improving the design or maybe some cool features I could add, please don't hesitate to tell me.
 
